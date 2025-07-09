@@ -1,0 +1,30 @@
+{
+  "name": "lazycoder.unity.haptic",
+  "displayName": "LazyCoder Haptic",
+  "version": "1.0.0",
+  "unity": "6000.1",
+  "description": "Haptic feedback solution on Android & iOS for Unity.",
+  "keywords": [
+    "data",
+    "unity"
+  ],
+  "bugs": {
+    "url": "https://github.com/lazycoder71/LazyCoder.Haptic/issues",
+    "email": "lamnd.bounce@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lazycoder71/LazyCoder.Haptic.git"
+  },
+  "samples": [{
+    "displayName": "Demo",
+    "description": "Demo using Haptic",
+    "path": "Samples~/Demo"
+  }],
+  "license": "MIT",
+  "author": {
+    "name": "Lam Nguyen",
+    "email": "lamnd.bounce@gmail.com",
+    "url": "https://www.facebook.com/theycallmelam"
+  }
+}
