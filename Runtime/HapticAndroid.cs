@@ -1,6 +1,7 @@
 #if UNITY_ANDROID
 
 using UnityEngine;
+using LazyCoder.Core;
 
 namespace LazyCoder.Haptic
 {

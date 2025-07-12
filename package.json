@@ -16,15 +16,20 @@
     "type": "git",
     "url": "https://github.com/lazycoder71/LazyCoder.Haptic.git"
   },
-  "samples": [{
-    "displayName": "Demo",
-    "description": "Demo using Haptic",
-    "path": "Samples~/Demo"
-  }],
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Demo using Haptic",
+      "path": "Samples~/Demo"
+    }
+  ],
   "license": "MIT",
   "author": {
     "name": "Lam Nguyen",
     "email": "lamnd.bounce@gmail.com",
     "url": "https://www.facebook.com/theycallmelam"
+  },
+  "dependencies": {
+    "lazycoder.unity.core": ""
   }
 }
